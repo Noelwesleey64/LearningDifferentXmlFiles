@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!--We created another string.xml file, then went to locale and added german
+     now we can create a translation of word hello into grerman-->
+    <string name="hello">Halo</string>
+</resources>
